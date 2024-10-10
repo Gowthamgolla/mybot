@@ -58,7 +58,7 @@ def handle_message(update, context):
 
 def main():
     # Bot token from BotFather
-    API_TOKEN = 'YOUR_BOT_API_TOKEN'
+    API_TOKEN = 7528144323:AAFWohrXinLkThMvqqhgwhid3WDkub_S7aU
 
     # Create Updater and attach dispatcher
     updater = Updater(API_TOKEN, use_context=True)
